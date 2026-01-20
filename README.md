@@ -18,7 +18,7 @@ alternatives based on their distance from the ideal best and ideal worst solutio
 ---
 
 ## Installation - USER MANUAL
-1. Topsis-bhavya-102303457 requires Python3 to run.
+1. Topsis-Saarthi-102303457 requires Python3 to run.
 2. Other dependencies that come installed with this package are :-
     - pandas
     - numpy
